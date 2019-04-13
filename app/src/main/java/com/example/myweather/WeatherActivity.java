@@ -23,7 +23,7 @@ import com.bumptech.glide.Glide;
 import com.example.myweather.gson.Forecast;
 import com.example.myweather.gson.Weather;
 import com.example.myweather.service.AutoUpdateService;
-import com.example.myweather.android.util.HttpUtil;
+import com.example.myweather.util.HttpUtil;
 import com.example.myweather.util.Utility;
 import com.example.myweather.util.HttpUtil;
 

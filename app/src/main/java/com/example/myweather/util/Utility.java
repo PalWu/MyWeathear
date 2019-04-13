@@ -5,7 +5,9 @@ import android.text.TextUtils;
 import com.example.myweather.db.City;
 import com.example.myweather.db.County;
 import com.example.myweather.db.Province;
+import com.example.myweather.gson.Weather;
 import com.google.gson.Gson;
+import com.example.myweather.gson.Weather;
 
 import org.json.JSONArray;
 import org.json.JSONException;
